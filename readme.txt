@@ -13,15 +13,24 @@ See a yearly breakdown of GiveWP donations by state / county / province for a gi
 
 == Description ==
 
-Donations by State Report for Give adds a report showing donation totals grouped by state, county or province, for a chosen year and a chosen set of donation statuses.
+Donations by State Report for Give adds a report showing donation totals grouped by state, county, or province, for a chosen year and a chosen set of donation statuses.
 
 It appears under **Donations → Donations by State**. GiveWP managers can also rebuild the report table from **Donations → Tools → Donations by State**.
 
-It answers the question sales tax and territory planning actually ask: how much did each state donate in a given year, counting only the donations that matter.
+Use it when you need to know how much each state donated in a given year, counting only the donation statuses that matter for territory planning.
 
-This plugin is a GiveWP extension. It requires [GiveWP](https://givewp.com/) 3.0 or later.
+This plugin is a GiveWP extension. It requires [GiveWP](https://wordpress.org/plugins/give/) 3.0 or later. There are no settings screens to configure. After you activate the plugin, open the report and choose a country, year, and donation statuses.
 
 Documentation: [salesbystate.com](https://salesbystate.com/)
+
+= How to use =
+
+1. Install and activate GiveWP, then install and activate this plugin.
+2. Go to **Donations → Donations by State**.
+3. Choose a **country**, a **year**, and the **donation statuses** that should count.
+4. The table lists donations for every state in that country.
+
+If the site already has donations, the plugin copies them into its report table in the background. A progress bar appears until that finishes. You can leave the page; the copy continues on its own.
 
 = What the report shows =
 
