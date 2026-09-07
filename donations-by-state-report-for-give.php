@@ -5,13 +5,12 @@
  * Description:          See a yearly breakdown of GiveWP donations by state / county / province for a given country, filterable by donation status.
  * Version:              1.0.0
  * Author:               Rodolfo Melogli
- * Author URI:           https://salesbystate.com/
+ * Author URI:           https://www.businessbloomer.com/
  * Developer:            Rodolfo Melogli
- * Developer URI:        https://salesbystate.com/
+ * Developer URI:        https://www.businessbloomer.com/
  * Text Domain:          donations-by-state-report-for-give
  * Domain Path:          /languages
  * Requires at least:    6.6
- * Tested up to:         7.1
  * Requires PHP:         8.0
  * Requires Plugins:     give
  * Give requires at least: 3.0
